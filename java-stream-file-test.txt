@@ -1,0 +1,14 @@
+This is example program for java-stream
+———————————————————————————————————————
+Date: Jan 24 2020
+
+I like java
+He likes c-sharp
+
+They like c++
+I like java stream
+
+She likes .NET
+We like coding
+
+I like technology
